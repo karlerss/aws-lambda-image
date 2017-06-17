@@ -1,0 +1,12 @@
+{
+  "bucket": "kv24-test",
+  "resizes": [
+    {
+      "size": "550x550^",
+      "gravity": "Center",
+      "crop": "550x550",
+      "directory": "../550x550",
+      "acl": "public-read"
+    }
+  ]
+}

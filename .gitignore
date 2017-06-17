@@ -1,7 +1,7 @@
 node_modules/
 aws-lambda-image.zip
 build/
-config.json
+#config.json
 npm-debug.log
 *.sw?
 .idea/
